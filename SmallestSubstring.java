@@ -1,8 +1,8 @@
+package com.twister;
+
 import java.io.*;
-import java.util.*;
 
-
-public class TestClass {
+public class SmallestSubstring {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         PrintWriter wr = new PrintWriter(System.out);
