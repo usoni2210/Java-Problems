@@ -1,4 +1,4 @@
-package com.twister;
+package com.twister.HackerRank;
 
 import java.io.*;
 
